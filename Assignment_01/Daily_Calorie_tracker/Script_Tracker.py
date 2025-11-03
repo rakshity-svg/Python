@@ -1,3 +1,12 @@
+# Project: Daily Calorie Tracker
+# Author: [Rakshit Yadav]
+# Roll No: [2501730016]
+# Date: [13 October 2025]
+# Description: A CLI tool to track daily calorie intake,
+#              compare with personal limits, and save logs.
+
+
+
 import datetime
 
 # Task 1: Setup & Introduction
